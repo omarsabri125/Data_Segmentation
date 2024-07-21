@@ -8,13 +8,13 @@ This notebook demonstrates data segmentation using clustering techniques. It cov
 
 ## Table of Contents
 
-1. [Import Libraries]
-2. [Reading Data]
-3. [Data Information, Preprocessing, and Visualization]
-   - [Decode Categorical Data]
-   - [Detect Outliers]
-   - [Identify Correlation Between Features]
-4. [Build Model]
-   - [K-Means]
-   - [Elbow Method]
-   - [Hierarchical Clusters]
+1. Import Libraries
+2. Reading Data
+3. Data Information, Preprocessing, and Visualization
+   - Decode Categorical Data
+   - Detect Outliers
+   - Identify Correlation Between Features
+4. Build Model
+   - K-Means
+   - Elbow Method
+   - Hierarchical Clusters
